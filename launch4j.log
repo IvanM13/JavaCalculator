@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Biwi King\Documents\Java\Calculator\Calculator.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Biwi King\Documents\Java\Calculator\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\NASM;C:\Program Files\Golink;C:\masm32\bin;C:\masm64\bin;C:\msys64;C:\msys64\mingw64\bin;C:\Program Files (x86)\SASM\MinGW64\bin;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\IncrediBuild;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Biwi King\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Biwi King\AppData\Local\Programs\Python\Python310\;C:\Users\Biwi King\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.1\bin;;C:\Users\Biwi King\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Biwi King\.dotnet\tools;C:\Program Files\Java\jdk-19\bin;C:\Users\Biwi King\go\bin;C:\Users\Biwi King\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin
+JRE paths:	;C:\Python311\Scripts\;C:\Python311\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\NASM;C:\Program Files\Golink;C:\masm32\bin;C:\masm64\bin;C:\msys64;C:\msys64\mingw64\bin;C:\Program Files (x86)\SASM\MinGW64\bin;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\IncrediBuild;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Biwi King\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Biwi King\AppData\Local\Programs\Python\Python310\;C:\Users\Biwi King\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2.1\bin;;C:\Users\Biwi King\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Biwi King\.dotnet\tools;C:\Program Files\Java\jdk-19\bin;C:\Users\Biwi King\go\bin;C:\Users\Biwi King\AppData\Roaming\npm;C:\Program Files\Java\jdk-19\bin
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Version string: 1.019.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Biwi King\Documents\Java\Calculator\Calculator.exe"
+Args length:	66/32768 chars
+Exit code:	0
